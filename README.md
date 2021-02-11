@@ -6,9 +6,9 @@
 
 #### Projects worked on
 
-- [Benefit Square](https:://www.benefitsquare.com)
+- [Benefit Square](https://www.benefitsquare.com)
 - [India Business Square](https://www.ibizsquare.com)
-- [Lead Sparkle](https://leadpsarkle.com)
+- [Lead Sparkle](https://leadsparkle.com)
 - [Mirozio Shop](https://www.mirozioshop.com)
 
 #### Tech Stack I'm familiar with:
