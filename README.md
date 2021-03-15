@@ -11,6 +11,16 @@
 - [Lead Sparkle](https://leadsparkle.com)
 - [Mirozio Shop](https://www.mirozioshop.com)
 
+#### Personal Projects
+
+The below projects that I have worked on are for learning purposes. All the source code are available on repositories tab of my account. Feel free to check it out.
+
+- ReactJs Game - TicTacToe
+- ReactJs Pizzaa Website
+- ReactJS Travel Website
+- Laravel & ReactJs - Invetory Management System
+- Laravel Gaming Website using IGDB API
+
 #### Tech Stack I'm familiar with:
 - HTML 5
 - CSS 3
@@ -20,6 +30,7 @@
 - Basic WordPress
 - Basic SEO
 - Google Lighthouse
+- PHPUnit
 
 #### Social Media
 - [Facebook](https://www.facebook.com/MeTheSaiyanPrince)
