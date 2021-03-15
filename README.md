@@ -15,22 +15,22 @@
 
 The below projects that I have worked on are for learning purposes. All the source code are available on repositories tab of my account. Feel free to check it out.
 
-- ReactJs Game - TicTacToe
-- ReactJs Pizzaa Website
-- ReactJS Travel Website
-- Laravel & ReactJs - Invetory Management System
-- Laravel Gaming Website using IGDB API
+- [ReactJs Game - TicTacToe](https://mehulbawadia.github.io/react-tic-tac-toe)
+- [ReactJs Pizzaa Website](https://mehulbawadia.github.io/react-website-pizza)
+- [ReactJS Travel Website](https://mehulbawadia.github.io/react-travel-website)
+- [Laravel & ReactJs - Invetory Management System](https://github.com/MehulBawadia/inventory-management)
+- [Laravel Gaming Website using IGDB API](https://github.com/MehulBawadia/laravel-igdb-website)
 
 #### Tech Stack I'm familiar with:
 - HTML 5
 - CSS 3
 - JavaScript / jQuery
 - PHP with Laravel Framework
+- PHPUnit
 - MySQL
 - Basic WordPress
 - Basic SEO
 - Google Lighthouse
-- PHPUnit
 
 #### Social Media
 - [Facebook](https://www.facebook.com/MeTheSaiyanPrince)
