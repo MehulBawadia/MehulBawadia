@@ -4,7 +4,7 @@
 
 ----
 
-#### Projects worked on
+### Projects worked on
 
 - [Benefit Square](https://www.benefitsquare.com)
 - [India Business Square](https://www.ibizsquare.com)
@@ -27,7 +27,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 #### Built in both Laravel and ReactJs
 - [Laravel & ReactJs - Invetory Management System](https://github.com/MehulBawadia/inventory-management)
 
-#### Tech Stack I'm familiar with:
+### Tech Stack I'm familiar with:
 - HTML 5
 - CSS 3
 - JavaScript / jQuery
