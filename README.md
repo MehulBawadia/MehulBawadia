@@ -23,6 +23,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - [Pizzaa Website](https://mehulbawadia.github.io/react-website-pizza)
 - [Travel Website](https://mehulbawadia.github.io/react-travel-website)
 - [Weather App using OpenWeather API](https://github.com/MehulBawadia/react-weather-app)
+- [CryptoCurrency Tracker using CoinGecko API](https://mehulbawadia.github.io/react-cryptocurrency-api)
 
 #### Built in both Laravel and ReactJs
 - [Laravel & ReactJs - Invetory Management System](https://github.com/MehulBawadia/inventory-management)
