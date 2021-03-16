@@ -16,13 +16,13 @@
 The below projects that I have worked on are for learning purposes. All the source code are available on repositories tab of my account. Feel free to check it out.
 
 #### Built in only Laravel
-- [Laravel Gaming Website using IGDB API](https://github.com/MehulBawadia/laravel-igdb-website)
+- [Gaming Website using IGDB API](https://github.com/MehulBawadia/laravel-igdb-website)
 
 #### Built in only ReactJs
-- [ReactJs Game - TicTacToe](https://mehulbawadia.github.io/react-tic-tac-toe)
-- [ReactJs Pizzaa Website](https://mehulbawadia.github.io/react-website-pizza)
-- [ReactJS Travel Website](https://mehulbawadia.github.io/react-travel-website)
-- [ReactJs Weather App](https://github.com/MehulBawadia/react-weather-app)
+- [Game - TicTacToe](https://mehulbawadia.github.io/react-tic-tac-toe)
+- [Pizzaa Website](https://mehulbawadia.github.io/react-website-pizza)
+- [Travel Website](https://mehulbawadia.github.io/react-travel-website)
+- [Weather App using OpenWeather API](https://github.com/MehulBawadia/react-weather-app)
 
 #### Built in both Laravel and ReactJs
 - [Laravel & ReactJs - Invetory Management System](https://github.com/MehulBawadia/inventory-management)
