@@ -7,9 +7,9 @@
 ### Projects worked on
 
 - [Benefit Square](https://www.benefitsquare.com)
+- [Mirozio Shop](https://www.mirozioshop.com)
 - [India Business Square](https://www.ibizsquare.com)
 - [Lead Sparkle](https://leadsparkle.com)
-- [Mirozio Shop](https://www.mirozioshop.com)
 
 #### Personal Projects
 
@@ -31,12 +31,12 @@ The below projects that I have worked on are for learning purposes. All the sour
 ### Tech Stack I'm familiar with:
 - HTML 5
 - CSS 3
-- JavaScript / jQuery
+- JavaScript / jQuery / AJAX
 - PHP with Laravel Framework
 - PHPUnit
 - MySQL
 - Basic WordPress
-- Basic SEO
+- Basic SEO - On-page and Off-page
 - Google Lighthouse
 
 #### Social Media
