@@ -17,6 +17,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 
 #### Built in only Laravel
 - [Gaming Website using IGDB API](https://github.com/MehulBawadia/laravel-igdb-website)
+- [Movies Web App using TMDB API](https://github.com/MehulBawadia/laramovies)
 
 #### Built in only ReactJs
 - [Game - TicTacToe](https://mehulbawadia.github.io/react-tic-tac-toe)
