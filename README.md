@@ -35,6 +35,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - JavaScript / jQuery / AJAX
 - ReactJs
 - PHP with Laravel Framework
+- RESTFul API (Creation and Integration)
 - PHPUnit
 - MySQL
 - Basic SEO - On-page and Off-page
