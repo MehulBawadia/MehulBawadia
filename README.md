@@ -37,7 +37,6 @@ The below projects that I have worked on are for learning purposes. All the sour
 - PHP with Laravel Framework
 - PHPUnit
 - MySQL
-- Basic WordPress
 - Basic SEO - On-page and Off-page
 - Google Lighthouse
 
