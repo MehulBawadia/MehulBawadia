@@ -42,6 +42,14 @@ The below projects that I have worked on are for learning purposes. All the sour
 - Basic SEO - On-page and Off-page
 - Google Lighthouse
 
+### Software Tools that I use
+- Sublime Text
+- Google Chrome / Mozilla Firefox
+- LAMP - Ubuntu 20.04, Apache2, MySQL 8.0, and PHP 7.4
+- GitHub / BitBucket
+- Trello
+- Slack / Discord
+
 #### Social Media
 - [Facebook](https://www.facebook.com/MeTheSaiyanPrince)
 - [Twitter](https://twitter.com/MehulBawadia)
