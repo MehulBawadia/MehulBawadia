@@ -16,6 +16,7 @@
 The below projects that I have worked on are for learning purposes. All the source code are available on repositories tab of my account. Feel free to check it out.
 
 #### Built in only Laravel
+- [Simple Chatting Room](https://github.com/MehulBawadia/chat-app)
 - [Gaming Website using IGDB API](https://github.com/MehulBawadia/laravel-igdb-website)
 - [Movies Web App using TMDB API](https://github.com/MehulBawadia/laramovies)
 - [Playing with Sanctum](https://github.com/MehulBawadia/laravel-sanctum-api)
