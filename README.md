@@ -22,6 +22,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - [Playing with Sanctum](https://github.com/MehulBawadia/laravel-sanctum-api)
 - [Playing with Passport](https://github.com/MehulBawadia/learning-passport)
 - [Playing with Socialite](https://github.com/MehulBawadia/learning-socialite)
+- [Playing with Breeze and VueJs](https://github.com/MehulBawadia/learning-breeze-vue-stack)
 
 #### Built in only ReactJs
 - [Game - TicTacToe](https://mehulbawadia.github.io/react-tic-tac-toe)
