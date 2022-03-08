@@ -26,6 +26,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 
 #### Built in only ReactJs
 - [Game - TicTacToe](https://mehulbawadia.github.io/react-tic-tac-toe)
+- [Game - Candy Crush](https://mehulbawadia.github.io/react-candy-crush)
 - [Pizzaa Website](https://mehulbawadia.github.io/react-website-pizza)
 - [Travel Website](https://mehulbawadia.github.io/react-travel-website)
 - [Weather App using OpenWeather API](https://github.com/MehulBawadia/react-weather-app)
