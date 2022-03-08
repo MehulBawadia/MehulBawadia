@@ -40,6 +40,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - CSS 3
 - JavaScript / jQuery / AJAX
 - ReactJs
+- InertiaJs
 - PHP with Laravel Framework
 - RESTFul API (Creation and Integration)
 - Integrating Payment Gateways (CCAvenue, InstaMojo, PayPal)
