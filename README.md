@@ -1,6 +1,6 @@
 ## Mehul Bawadia
 
-6 years of experience in the PHP Laravel framework.
+7 years of experience as a Web Developer in the Laravel Framework.
 
 ----
 
