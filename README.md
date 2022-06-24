@@ -43,7 +43,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - InertiaJs
 - PHP with Laravel Framework
 - RESTFul API (Creation and Integration)
-- Integrating Payment Gateways (CCAvenue, InstaMojo, PayPal)
+- Integrating Payment Gateways (CCAvenue, InstaMojo, PayPal, Stripe)
 - PHPUnit
 - MySQL
 - Basic SEO - On-page and Off-page
