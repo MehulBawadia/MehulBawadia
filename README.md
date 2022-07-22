@@ -40,6 +40,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - CSS 3
 - JavaScript / jQuery / AJAX
 - ReactJs
+- VueJs (basic)
 - InertiaJs
 - PHP with Laravel Framework
 - RESTFul API (Creation and Integration)
