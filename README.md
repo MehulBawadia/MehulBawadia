@@ -55,6 +55,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 
 ### Software Tools that I use
 - Sublime Text
+- VS Code
 - Google Chrome / Mozilla Firefox
 - LAMP - Ubuntu 20.04, Apache2, MySQL 8.0, and PHP 7.4
 - GitHub / BitBucket
