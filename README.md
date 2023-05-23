@@ -57,7 +57,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - Sublime Text
 - VS Code
 - Google Chrome / Mozilla Firefox
-- LAMP - Ubuntu 20.04, Apache2, MySQL 8.0, and PHP 7.4
+- LAMP - Linux (Ubuntu 22.04), Apache2, MySQL 8.0, and PHP > 8.0
 - GitHub / BitBucket
 - Trello
 - Slack / Discord
