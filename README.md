@@ -1,7 +1,7 @@
 ## Mehul Bawadia
 
 8 Years of experience in web development.
-- 1 year experiece as Full Stack Develpoer (VueJs 2 and Laravel)
+- 1 year experiece as Full Stack Developer (VueJs 2 and Laravel)
 - 6 months experience as Full Stack Developer (ReactJs and Laravel via InertiaJs)
 - 5 years 6 months experiece as Web Developer using only Laravel Framework
 
@@ -43,7 +43,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - CSS 3
 - JavaScript / jQuery / AJAX
 - ReactJs
-- VueJs (basic)
+- VueJs
 - InertiaJs
 - PHP with Laravel Framework
 - RESTFul API (Creation and Integration)
