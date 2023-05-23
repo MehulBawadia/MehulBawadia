@@ -63,7 +63,6 @@ The below projects that I have worked on are for learning purposes. All the sour
 - Slack / Discord
 
 #### Social Media
-- [Facebook](https://www.facebook.com/MeTheSaiyanPrince)
 - [Twitter](https://twitter.com/MehulBawadia)
 - [LinkedIn](https://www.linkedin.com/in/mehulbawadia)
 - [Instagram](https://www.instagram.com/mehulbawadia)
