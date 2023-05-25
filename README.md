@@ -51,7 +51,6 @@ The below projects that I have worked on are for learning purposes. All the sour
 - PHPUnit
 - MySQL
 - Basic SEO - On-page and Off-page
-- Google Lighthouse
 
 ### Software Tools that I use
 - Sublime Text
