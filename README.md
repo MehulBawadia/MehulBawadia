@@ -42,7 +42,7 @@ The below projects that I have worked on are for learning purposes. All the sour
 - HTML 5
 - CSS 3
 - JavaScript / jQuery / AJAX
-- ReactJs
+- ReactJs (basic)
 - VueJs
 - InertiaJs
 - PHP with Laravel Framework
